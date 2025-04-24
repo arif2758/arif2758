@@ -1,5 +1,5 @@
 ### Hey! 👋 I'm Arif
-I'm a soul enraptured by the melodies of JavaScript, web performance, and the artistry of crafting intricate technical narratives. Proficient in JavaScript (TypeScript), React (Next.js), Node.js, and the symphony of Web Performance, I proudly bear the mantle of an independent Web Developer. When not immersed in the enchanting rhythm of coding, I channel my passion into composing and sharing precious insights within the vast expanse of the web.  
+I'm a soul enraptured by the melodies of JavaScript, web performance, and the artistry of crafting intricate technical narratives. Proficient in TypeScript, React (Next.js), Node.js, and the symphony of Web Performance, I proudly bear the mantle of an independent Web Developer. When not immersed in the enchanting rhythm of coding, I channel my passion into composing and sharing precious insights within the vast expanse of the web.  
 
 <!--
 **arif2758/arif2758** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
