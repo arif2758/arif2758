@@ -1,5 +1,12 @@
 ### Hey! 👋 I'm Arif
-I'm a soul enraptured by the melodies of JavaScript, web performance, and the artistry of crafting intricate technical narratives. Proficient in TypeScript, React (Next.js), Node.js, and the symphony of Web Performance, I proudly bear the mantle of an independent Web Developer. When not immersed in the enchanting rhythm of coding, I channel my passion into composing and sharing precious insights within the vast expanse of the web.  
+I’m Arif, a passionate Web Developer specializing in Progressive Web Apps (PWAs) ⚡.  
+I create fast, reliable, and scalable web solutions tailored to the unique needs of each project.
+
+I’m proficient in technologies such as JavaScript, TypeScript, React, Next.js, Node.js, Ant Design, and GSAP — which I often use to craft smooth, high-performance animations 💫 that enhance user experience.  
+For larger projects, I focus on building polished and engaging user interfaces ✨.  
+On smaller projects, I take full ownership of the development process — from concept to deployment 🛠️.
+
+Committed to remote collaboration 🌐, clear communication 📬, and timely delivery ⏱️, I’m excited to help bring your ideas to life 🚀.  
 
 <!--
 **arif2758/arif2758** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
