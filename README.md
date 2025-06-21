@@ -1,5 +1,5 @@
 ### Hey! 👋 I'm Arif
-I’m Arif, a passionate Web Developer specializing in Progressive Web Apps (PWAs) ⚡.  
+a passionate Web Developer specializing in Progressive Web Apps (PWAs) ⚡.  
 I create fast, reliable, responsive, and scalable web solutions tailored to the unique needs of each project.
 
 I’m proficient in technologies such as JavaScript, TypeScript, React, Next.js, Node.js, Ant Design, and GSAP — which I often use to craft smooth, high-performance animations 💫 that enhance user experience.  
